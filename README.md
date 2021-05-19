@@ -36,13 +36,9 @@ Pacotes:
 	Runner:
 		Pacote responsavel pela parte das classes de execuções utilizando JUnit e RunWith Cucumber.class
 
-	Utils:
-		Pacote responsavel para guardar todas as classes que contenham metodos que possam ser usadas por varios métodos ou classes
-
 	Steps:
 		Pacote responsavel para guardar as Classes de Steps, as quais são geradas pelo cucumber. Nessas classes são chamadas as ações das paginas
 			Através das pages e validações.
 
 	features:
 		Diretório responsável para guardar os arquivos .feature, onde estão gravados os arquivos relacionados ao cucumber e as escrita em gherkin
-	 	ris17h58h23mAtivid
